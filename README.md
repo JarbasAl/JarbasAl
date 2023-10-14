@@ -43,7 +43,7 @@ Your sponsorship will directly contribute to the growth and sustainability of th
 
 ## Contact Me
 
-You can reach me by Email: [jarbasai@mailfence.com](mailto:jarbasai@mailfence.com) or [LinkedIn](https://www.linkedin.com/in/casimiro-ferreira-953783151/)
+You can reach me by Email: [jarbasai@mailfence.com](mailto:jarbasai@mailfence.com), [Matrix Chat](https://matrix.to/#/@jarbasai:matrix.org) or [LinkedIn](https://www.linkedin.com/in/casimiro-ferreira-953783151/)
 
 Thank you for considering supporting my work!
 
