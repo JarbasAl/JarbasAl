@@ -1,0 +1,25 @@
+{
+  "title": "Miro's Blog",
+  "subtitle": "Lead developer at OpenVoiceOS — tech guy with a knack for getting things done",
+  "owner": {
+    "name": "Casimiro Ferreira",
+    "email": "jarbasai@mailfence.com"
+  },
+  "social": {
+    "github": "JarbasAl"
+  },
+  "seo": {
+    "title": "Miro's Blog",
+    "description": "Blog of a Software Engineer",
+    "author": "Casimiro Ferreira",
+    "keywords": [
+      "blog",
+      "developer blog",
+      "engineering blog",
+      "openvoiceos",
+      "ovos",
+      "hivemind",
+      "mycroft"
+    ]
+  }
+}
