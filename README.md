@@ -34,7 +34,7 @@ I am dedicated to advancing the development of OpenVoiceOS and HiveMind, but in 
 
 You can consider the following options:
 
-- **Contract Work:** Engage me to implement voice technology solutions based on OpenVoiceOS for your specific needs.
+- **Contract Work:** [Engage me](mailto:jarbasai@mailfence.com) to implement voice technology solutions based on OpenVoiceOS for your specific needs.
 - **Donate:** Contribute to the development of OpenVoiceOS and HiveMind by making a financial donation through [PayPal](https://paypal.me/AnaIsabelFerreira).
 - **Become a Patron:** Support my work by becoming a patron through [Liberapay](https://liberapay.com/jarbasAI).
 - **Sponsor a Sprint:** Help advance key features and milestones under OpenVoiceOS by sponsoring specific development sprints.
@@ -43,7 +43,7 @@ Your sponsorship will directly contribute to the growth and sustainability of th
 
 ## Contact Me
 
-You can reach me by Email: [jarbasai@mailfence.com](mailto:jarbasai@mailfence.com)
+You can reach me by Email: [jarbasai@mailfence.com](mailto:jarbasai@mailfence.com) or [LinkedIn](https://www.linkedin.com/in/casimiro-ferreira-953783151/)
 
 Thank you for considering supporting my work!
 
